@@ -1,0 +1,9 @@
+{
+    "go.testEnvFile": "${workspaceFolder}/.env",
+    "cSpell.words": [
+        "drawio",
+        "LOONA",
+        "Protobuf",
+        "Vlive"
+    ],
+}
